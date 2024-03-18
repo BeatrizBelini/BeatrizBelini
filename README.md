@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Olá, me chamo Beatriz !
 ### Seja muito bem vindo ao meu perfil do GitHub👋
 
@@ -22,18 +20,10 @@
   <img src="https://github.com/BeatrizBelini/BeatrizBelini/blob/main/img.png" alt=celebrate width=250 align=right>
 <div>
   <div>
-    🎓 Atualmento estou graduando em Análise em Desenvolvimento de Sistemas, sempre fui apaixonado por essa área, e após completar meu ensino médio já tinha certeza qual seria minha vocação.
+    - 🎓 Graduanda em Sistema de Informação - FAFRAM  <br>
+    - 💻 Trabalhando pela primeira vez na área com Jovem Aprendiz de Desenvolvimento de Sistemas <br>  
+    - 💬 Busco aprender mais sobre programação e explorar esse mundo da tecnologia
   </div>
-  <br>
-  <div>
-    💻 Atualmente trabalho como aprendiz em Desenvolvimento de Sistemas, esse é meu primeiro contato com o mercado de trabalho na área de T.I.
-  </div>
-    <br>
-  <div>
-    🗨️ Estou disposto a aprender novas práticas e tecnologias e colocar em prática toda a minha teoria aprendida nesses últimos anos...
-  </div>
-  
-</div>
 
 <br>
 
@@ -56,31 +46,6 @@
 <br>
 
  ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-
-<!--
-**RenanOliveiraSilva/RenanOliveiraSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
-
-
-
-
-
-
 
 
 <!--
